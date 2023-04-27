@@ -9,6 +9,7 @@ Linked words: Artur Alliksaare (Estonian poet), centenary (100th anniversary), p
 
 The amount of complex words is low. There are no words that are particularly difficult to understand or pronounce.
 
+
 2) 
 
 write an approximately 30 word text (no more then 30, but it can be less) for dictation with fixed control text to transcribe with the purpose: the paragraph appears to be to suggest a humorous idea or scenario involving a joint choir and a "Kindmeelse looma kimbatus kingapoes" song title. 
@@ -21,6 +22,7 @@ Keywords: joint choir, year of movement, pronunciation exercise, song, Kindmeels
 
 In terms of complex words, there are a few words that may be considered complex or specialized, such as "pronunciation”. 
 
+
 3)write an approximately 30 word text (no more then 30, but it can be less) for dictation with fixed control text to transcribe with the the main idea of the paragraph is to provide information about the song "Koit" by Mihkel Lüdig, which is currently used as a popular choice for singing parties.
 The paragraph briefly mentions the history of the song, stating that the lyrics were reportedly written by Friedrich Kuhlbars in a short amount of time while in the singing group Koit. 
 
@@ -28,6 +30,7 @@ The purpose of the paragraph is to give context to the song's popularity and pro
 The difficulty of this text should be moderated.
 
 Keywords: singing parties, song, Koit, Mihkel Lüdig, Friedrich Kuhlbars, quarter of an hour, fire.
+
 
 4) 
 
@@ -38,7 +41,9 @@ The difficulty of this text should be moderated.
 
 Keywords: creating, society, name, tavern, Võrtsjärve, song celebrants, summer booze, red dawn, eastern sky.
 
-5) write an approximately 30 word text (no more then 30, but it can be less) for dictation with fixed control text to transcribe with the main idea and purpose: The main idea of the paragraph is that the poetry of Alliksaare is not commonly known or widely read. 
+
+5)
+write an approximately 30 word text (no more then 30, but it can be less) for dictation with fixed control text to transcribe with the main idea and purpose: The main idea of the paragraph is that the poetry of Alliksaare is not commonly known or widely read. 
 The purpose of the paragraph is to mention the title of a posthumously published collection of Alliksaare's poetry, which is "Non-existence could also be absent." The paragraph implies that this collection may be worth exploring despite the poet's relative obscurity.
 
 The difficulty of this text should be moderated.
