@@ -7,3 +7,4 @@
 <p>Required libraries: Flask, openai, </p>
 Example of 1st run: ![Cannot open first run of the program](photo_5357262242338425885_y.jpg)
 Example of 2nd run: ![Cannot open second run of the program](photo_5357262242338425891_y.jpg)
+Example when the API connection is not established: 
