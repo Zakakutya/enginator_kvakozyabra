@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask Example</title>
+</head>
+<body>
+    <button id="submitBtn">Click me! See magic!</button>
+    <p id="result"></p>
+    <script>
+        const submitBtn = document.getElementById('submitBtn');
+        const result = document.getElementById('result');
+        
+        submitBtn.addEventListener('click', function() {
+            fetch('/data', { method: 'POST' })
+                .then(function(response) {
+                    return response.json();
+                })
+                .then(function(data) {
+                    result.innerHTML = data.message;
+                });
+        });
+    </script>
+</body>
+</html>
